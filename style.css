@@ -1,11 +1,11 @@
 /* CSS files add styling rules to your content */
-
+@import url('https://fonts.googleapis.com/css2?family=Rakkas&display=swap');
 body {
-  font-family: helvetica, arial, sans-serif;
+  font-family: comic sans, sans-serif;
   margin: 2em;
 }
 
 h1 {
-  font-style: italic;
+  font-style: Rakkas, cursive;
   color: #373fff;
 }
